@@ -25,28 +25,28 @@
     "nombre": "Sitio Arqueológico Tazumal",
     "pais": "El Salvador",
     "descripcion": "El sitio arqueológico Tazumal está ubicado en el corazón del municipio de Chalchuapa, departamento de Santa Ana, El Salvador a ochenta kilómetros al occidente de la capital. Esta zona está dentro del área arqueológica de Chalchuapa, cuya superficie aproximada es de 10 km² y donde también se localizan los sitios arqueológicos de Pampe, Casa Blanca, El Trapiche y Las Victorias. Chalchuapa fue un sitio que recibió la influencia de Copán y la influencia teotihuacana y tolteca.",
-    "imagen": "https://es.wikipedia.org/wiki/Tazumal#/media/Archivo:ES_Tazumal_06_2011_2280.jpg"
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ES_Tazumal_06_2011_2280.jpg/1024px-ES_Tazumal_06_2011_2280.jpg"
   },
   {
     "id": 5,
     "nombre": "Casa Blanca - Sitio Arqueológico",
     "pais": "El Salvador",
     "descripcion": "Casa Blanca es un sitio arqueológico ubicado en la zona arqueológica de Chalchuapa, en el municipio homónimo, Departamento de Santa Ana, zona occidental de El Salvador. Su nombre es dado por la hacienda cafetalera que funcionaba en el actual parque arqueológico.Las investigaciones arqueológicas lo sitúan entre el período preclásico (500 a. C. - 250 d. C.) y el período clásico (250 d. C. - 900 d. C.). Su proximidad con Guatemala facilitó mucho el comercio de cerámica, obsidiana y otros productos con Kaminaljuyú y fue influenciado por los olmecas y Teotihuacan. Tiene una gran relación con los sitios locales Tazumal, El Trapiche y Laguna Cuzcachapa, entre otros.",
-    "imagen": "https://es.wikipedia.org/wiki/Casa_Blanca_(sitio_precolombino)#/media/Archivo:Casa_Blanca_(sitio_precolombino).jpg"
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Casa_Blanca_%28sitio_precolombino%29.jpg"
   },
   {
     "id": 6,
     "nombre": "Sitio Maya de Copán",
     "pais": "Honduras",
     "descripcion": "Copán es un sitio arqueológico de la antigua civilización maya ubicado en el departamento de Copán al occidente de Honduras, a poca distancia de la frontera con Guatemala. Del siglo v al siglo ix fue la capital de un importante reino del periodo Clásico. La ciudad estaba situada en el extremo sureste de la región cultural Mesoaméricana, en la frontera con la región cultural istmo-colombiana, en una zona habitada por pueblos que no pertenecían a la etnia maya. En la actualidad este valle fértil contiene un centro urbano de alrededor de 3000 habitantes, un pequeño aeropuerto y una carretera sinuosa. La ocupación humana del sitio se extiende por más de dos milenios, desde el Preclásico Temprano hasta el Posclásico. La ciudad desarrolló un estilo escultórico distintivo dentro de la tradición de los mayas de las tierras bajas, tal vez para destacar el origen maya de los gobernantes de la ciudad.La ciudad cuenta con un registro histórico que cubre la mayor parte del período clásico y que ha sido reconstruido en detalle por arqueólogos y epigrafistas.Copán, originalmente probablemente llamado Oxwitik por los mayas, era una poderosa ciudad-estado, gobernando un vasto reino en el sur de la región maya.La ciudad sufrió un desastre político importante en el año 738 d. C., cuando Uaxaclajuun Ub'aah K'awiil, uno de los más grandes reyes en la historia de la dinastía de Copán, fue capturado y ejecutado por su antiguo vasallo, el rey de Quiriguá.Esta inesperada derrota dio lugar a un receso de 17 años durante el cual Copán puede haber estado bajo el dominio de Quiriguá.Una parte significativa del lado oriental de la acrópolis fue afectada por la erosión causada por el río Copán, aunque el río ha sido desviado en los años 1930 con el fin de proteger el sitio contra daños mayores.En 1980 Copán fue declarado Patrimonio de la Humanidad por UNESCO. ",
-    "imagen": "https://es.wikipedia.org/wiki/Cop%C3%A1n_(sitio_arqueol%C3%B3gico)#/media/Archivo:CPN_WEST_COURT_01.jpg"
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CPN_WEST_COURT_01.jpg/800px-CPN_WEST_COURT_01.jpg"
   },
   {
     "id": 7,
     "nombre": "Tikal",
     "pais": "Guatemala",
     "descripcion": "Tikal (o Tik'al, de acuerdo con la ortografía maya moderna) es uno de los mayores yacimientos arqueológicos y centros urbanos de la civilización maya precolombina. Está situado en el municipio de Flores, en el departamento de Petén, en el territorio actual de la República de Guatemala y forma parte del Parque nacional Tikal, que fue declarado Patrimonio de la Humanidad, por Unesco, en 1979.Según los glifos encontrados en el yacimiento, su nombre maya habría sido Yax Mutul.Tikal fue la capital de un estado beligerante, que se convirtió en uno de los reinos más poderosos de los antiguos mayas.Aunque la arquitectura monumental del sitio se remonta hasta el siglo iv a. C., Tikal alcanzó su apogeo durante el Período Clásico, entre el 200 y el 900 d. C. Durante este tiempo, la ciudad dominó gran parte de la región maya, en el ámbito político, económico y militar; mantenía vínculos con otras regiones, a lo largo de Mesoamérica, incluso con la gran metrópoli de Teotihuacan, en el lejano Valle de México.Después del Clásico Tardío, no se construyeron monumentos mayores.Con una larga lista de gobernantes dinásticos, el descubrimiento de muchas de sus respectivas tumbas y el estudio de sus monumentos, templos y palacios, Tikal es probablemente la mejor comprendida de las grandes ciudades mayas de las tierras bajas de Mesoamérica.",
-    "imagen": "https://es.wikipedia.org/wiki/Tikal#/media/Archivo:Tikal-Plaza-And-North-Acropolis.jpg"
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tikal-Plaza-And-North-Acropolis.jpg/1920px-Tikal-Plaza-And-North-Acropolis.jpg"
   },
   {
     "id": 8,
