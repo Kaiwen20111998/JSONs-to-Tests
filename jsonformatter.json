@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "nombre": "Joya de Cerén",
+    "nombre": "Sitio Arqueológico Joya de Cerén",
     "pais": "El Salvador",
     "descripcion": "Joya de Cerén es un sitio precolombino de El Salvador situado en las proximidades de San Juan Opico y Las Flores, en el departamento de La Libertad, en la región centroccidental de El Salvador. Estuvo habitado al menos desde el año 400 por un pueblo agrícola tributario de San Andrés y fue abandonado alrededor del año 600 a causa de la erupción de la Laguna Caldera. El sitio permite apreciar la vida cotidiana de un pueblo maya agricultor de hace 1400 años (siglo VII), el único conocido en El Salvador.Es uno de los sitios arqueológicos más importantes de Mesoamérica porque muestra cómo era la vida de la gente común y corriente. Por eso se le llama a menudo la Pompeya de América, en comparación con el sitio arqueológico de Pompeya, localizado en Italia.En 1993, Joya de Cerén fue declarada patrimonio de la humanidad por la Unesco.",
     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/ES_Joya_Ceren_05_2012_Estructura_9_Area_2_Tamazcal_wide_angle_1479.JPG/800px-ES_Joya_Ceren_05_2012_Estructura_9_Area_2_Tamazcal_wide_angle_1479.JPG"
   },
   {
     "id": 2,
-    "nombre": "Cihuatán",
+    "nombre": "Sitio Arqueológico Cihuatán",
     "pais": "El Salvador",
     "descripcion": "Cihuatán es un sitio arqueológico prehispánico de El Salvador. Está ubicado en el municipio de Aguilares en el departamento de San Salvador. La ciudad fue construida y habitada entre los años 900 y 1200 d.C. Sus habitantes eran indígenas mayas, pero es posible que hubiera otros grupos étnicos en la ciudad y la arquitectura y artefactos demuestran enlaces fuertes con Centroamérica y el sur de México, sobre todo Veracruz y Puebla. ). El sitio arqueológico es co-administrado por la Secretaría de Cultura de la Presidencia y la Fundación Nacional de Arqueología de El Salvador. el parque es desarrollado y contiene museo del sitio, sanitarios, área de picnic y un sendero interpretativo.Cihuatán es considerado como uno de los mayores sitios arqueológicos de El Salvador, con una extensión estimada en unos tres kilómetros cuadrados. Se encuentra situado en una loma y un área rodeada por ríos en las cercanías del volcán de Guazapa. El parque arqueológico comprende un área de 75 hectáreas. ",
     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Piramide_Cihuatan.jpg/1024px-Piramide_Cihuatan.jpg"
@@ -36,21 +36,21 @@
   },
   {
     "id": 6,
-    "nombre": "Sitio Maya de Copán",
+    "nombre": "Sitio Arqueológico Maya de Copán",
     "pais": "Honduras",
     "descripcion": "Copán es un sitio arqueológico de la antigua civilización maya ubicado en el departamento de Copán al occidente de Honduras, a poca distancia de la frontera con Guatemala. Del siglo v al siglo ix fue la capital de un importante reino del periodo Clásico. La ciudad estaba situada en el extremo sureste de la región cultural Mesoaméricana, en la frontera con la región cultural istmo-colombiana, en una zona habitada por pueblos que no pertenecían a la etnia maya. En la actualidad este valle fértil contiene un centro urbano de alrededor de 3000 habitantes, un pequeño aeropuerto y una carretera sinuosa. La ocupación humana del sitio se extiende por más de dos milenios, desde el Preclásico Temprano hasta el Posclásico. La ciudad desarrolló un estilo escultórico distintivo dentro de la tradición de los mayas de las tierras bajas, tal vez para destacar el origen maya de los gobernantes de la ciudad.La ciudad cuenta con un registro histórico que cubre la mayor parte del período clásico y que ha sido reconstruido en detalle por arqueólogos y epigrafistas.Copán, originalmente probablemente llamado Oxwitik por los mayas, era una poderosa ciudad-estado, gobernando un vasto reino en el sur de la región maya.La ciudad sufrió un desastre político importante en el año 738 d. C., cuando Uaxaclajuun Ub'aah K'awiil, uno de los más grandes reyes en la historia de la dinastía de Copán, fue capturado y ejecutado por su antiguo vasallo, el rey de Quiriguá.Esta inesperada derrota dio lugar a un receso de 17 años durante el cual Copán puede haber estado bajo el dominio de Quiriguá.Una parte significativa del lado oriental de la acrópolis fue afectada por la erosión causada por el río Copán, aunque el río ha sido desviado en los años 1930 con el fin de proteger el sitio contra daños mayores.En 1980 Copán fue declarado Patrimonio de la Humanidad por UNESCO. ",
     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CPN_WEST_COURT_01.jpg/800px-CPN_WEST_COURT_01.jpg"
   },
   {
     "id": 7,
-    "nombre": "Tikal",
+    "nombre": "Parque Arqueológico Tikal",
     "pais": "Guatemala",
     "descripcion": "Tikal (o Tik'al, de acuerdo con la ortografía maya moderna) es uno de los mayores yacimientos arqueológicos y centros urbanos de la civilización maya precolombina. Está situado en el municipio de Flores, en el departamento de Petén, en el territorio actual de la República de Guatemala y forma parte del Parque nacional Tikal, que fue declarado Patrimonio de la Humanidad, por Unesco, en 1979.Según los glifos encontrados en el yacimiento, su nombre maya habría sido Yax Mutul.Tikal fue la capital de un estado beligerante, que se convirtió en uno de los reinos más poderosos de los antiguos mayas.Aunque la arquitectura monumental del sitio se remonta hasta el siglo iv a. C., Tikal alcanzó su apogeo durante el Período Clásico, entre el 200 y el 900 d. C. Durante este tiempo, la ciudad dominó gran parte de la región maya, en el ámbito político, económico y militar; mantenía vínculos con otras regiones, a lo largo de Mesoamérica, incluso con la gran metrópoli de Teotihuacan, en el lejano Valle de México.Después del Clásico Tardío, no se construyeron monumentos mayores.Con una larga lista de gobernantes dinásticos, el descubrimiento de muchas de sus respectivas tumbas y el estudio de sus monumentos, templos y palacios, Tikal es probablemente la mejor comprendida de las grandes ciudades mayas de las tierras bajas de Mesoamérica.",
     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tikal-Plaza-And-North-Acropolis.jpg/1920px-Tikal-Plaza-And-North-Acropolis.jpg"
   },
   {
     "id": 8,
-    "nombre": "Cara Sucia",
+    "nombre": "Sitio Arqueológico Cara Sucia",
     "pais": "El Salvador",
     "descripcion": "Cara Sucia es un sitio arqueológico prehispánico localizado en el suroeste de la república de El Salvador. Su ocupación más sobresaliente representa una versión local de la cultura Cotzumalhuapa, desarrollada principalmente en la vertiente del Pacífico de Guatemala, extendiéndose en El Salvador en zonas de los departamentos de Ahuachapán y Sonsonate.",
     "imagen": "https://photos.wikimapia.org/p/00/02/90/04/37_full.jpg"
