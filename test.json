@@ -1,16 +1,12 @@
-﻿{
-  "book_array": [
-    {
-      "id": 1,
-      "name": "ABC"
-    },
-    {
-      "id": 2,
-      "name": "DEF"
-    },
-    {
-      "id": 3,
-      "name": "GHI"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "original_title": "Agente 007: Operación SkyFall",
+    "year": "2012",
+    "duration": "143 mins",
+    "genre": "Aventura, Acción",
+    "sinopsis": "James Bond entra a una habitación donde revisa un portátil al cual le habían sustraído un disco duro con la información de los agentes del MI6 infiltrados en organizaciones terroristas. También se percata de que Ronson, un agente del MI6 está herido, e intenta salvarlo, pero su jefa le ordena continuar. Al salir a la calle, sube a una camioneta conducida por su compañera Eve. Intentan seguir a otro automóvil, pero el conductor se percata e inician una persecución por las calles de Estambul. Luego de que el conductor se estrellara, comienza un tiroteo contra 007 y Eve, para luego escapar en una moto de policía. Bond también roba una moto e inician una nueva persecución por los tejados del Gran Bazar. Cuando Eve acorrala al mercenario, este se lanza arriba de un tren en movimiento. Poco segundos después, Bond estrella su moto contra un muro bajo y cae sobre el mismo tren. Mientras 007 y el mercenario combaten arriba de los vagones, Eve conduce hasta un punto ventajoso para instalarse con un rifle. Eve sufre de la presión de no tener fijo el blanco y la de su jefa, la cual le ordena disparar definitivamente. La bala hiere a Bond, mientras el mercenario escapa arriba del tren. El cuerpo de Bond cae a un río y se pierde en una cascada.",
+    "starring": "Daniel Craig",
+    "poster": "https://static.noimg.net/movie/cover/original/110e9b7509264e19c5cf1d9eb67066ce.jpg"
+  }
+]
