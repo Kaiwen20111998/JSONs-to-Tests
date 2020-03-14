@@ -17,7 +17,7 @@
     "duration": "143 mins",
     "genre": "Aventura, Acción",
     "sinopsis": "James Bond entra a una habitación donde revisa un portátil al cual le habían sustraído un disco duro con la información de los agentes del MI6 infiltrados en organizaciones terroristas. También se percata de que Ronson, un agente del MI6 está herido, e intenta salvarlo, pero su jefa le ordena continuar. Al salir a la calle, sube a una camioneta conducida por su compañera Eve. Intentan seguir a otro automóvil, pero el conductor se percata e inician una persecución por las calles de Estambul. Luego de que el conductor se estrellara, comienza un tiroteo contra 007 y Eve, para luego escapar en una moto de policía. Bond también roba una moto e inician una nueva persecución por los tejados del Gran Bazar. Cuando Eve acorrala al mercenario, este se lanza arriba de un tren en movimiento. Poco segundos después, Bond estrella su moto contra un muro bajo y cae sobre el mismo tren. Mientras 007 y el mercenario combaten arriba de los vagones, Eve conduce hasta un punto ventajoso para instalarse con un rifle. Eve sufre de la presión de no tener fijo el blanco y la de su jefa, la cual le ordena disparar definitivamente. La bala hiere a Bond, mientras el mercenario escapa arriba del tren. El cuerpo de Bond cae a un río y se pierde en una cascada.",
-    "starring": "Daniel Craig",
+    "starring":"Daniel Craig",
     "poster": "https://static.noimg.net/movie/cover/original/110e9b7509264e19c5cf1d9eb67066ce.jpg",
     "banner":"https://cdn.collider.com/wp-content/uploads/2012/08/skyfall-movie-banner.jpg"
   },
@@ -38,7 +38,7 @@
     "duration": "160 mins",
     "genre": " Acción, Ciencia Ficción, Superhéroes, Marvel Comics, live action",
     "sinopsis": "La Guerra cósmica continua mientras los Vengadores y sus aliados protegiendo al mundo de amenazas grandes, un nuevo peligro emerge de entre las sombras cósmicas: Thanos, EL Titán loco busca recolectar las seis Gemas del Infinito, artefactos de inimaginable poder, y usarlas para imponer sus retorcidos deseos en toda la realidad. Todo para lo que los Vengadores han luchado les ha llevado a este momento, el destino de la Tierra y la propia existencia nunca han sido más inciertos. La Guerra del Infinito.",
-    "starring": "Robert Downey Jr., Chris Evans, Josh Brolin, Tom Holland, Paul Bettany",
+    "starring":"Robert Downey Jr., Chris Evans, Josh Brolin, Tom Holland, Paul Bettany",
     "poster": "https://img.repelis.id/cover/the-avengers-3-la-guerra-del-infinito.jpg",
     "banner":"https://img.vixdata.io/pd/jpg-large/es/sites/default/files/i/infinity-war-poster.jpeg"
   }
