@@ -41,5 +41,15 @@
     "starring":"Robert Downey Jr., Chris Evans, Josh Brolin, Tom Holland, Paul Bettany",
     "poster": "https://img.repelis.id/cover/the-avengers-3-la-guerra-del-infinito.jpg",
     "banner":"https://img.vixdata.io/pd/jpg-large/es/sites/default/files/i/infinity-war-poster.jpeg"
+  },
+  { "id": 4,
+    "title": "Avengers 4: Endgame",
+    "year": "2018",
+    "duration": "180 mins",
+    "genre": "  live action, Superhéroes, Fantasía, Ciencia Ficción, Acción, Marvel Comics",
+    "sinopsis": "Tras la culminación de 22 películas interconectadas, la cuarta entrega de la saga de Vengadores atraerá a las audiencias a presenciar el punto de inflexión de este viaje épico. Nuestros queridos héroes entenderán realmente cuán frágil es esta realidad y los sacrificios que deben hacerse para defenderla. Después de ser derrotados por Thanos la última vez y de que este último efectuara su plan de eliminar a la mitad del universo, Los Vengadores ahora trataran de buscar la forma de como enfrentarse nuevamente al titán y buscar como remediar el daño ocasionado por el chasquido del Guantelete del Infinito, siendo esta la gran batalla que decidirá el destino del universo entero.",
+    "starring":"Chris Evans, Robert Downey Jr., Josh Brolin, Jeremy Renner",
+    "poster": "https://static.noimg.net/movie/cover/original/25f6a58aa0daa484de67f54d1cc281c4.jpg",
+    "banner":"https://images.squarespace-cdn.com/content/569afbf5e0327c41cd98fa69/1556410017613-XW3A3PH9FUBXMBFACTNO/Screen+Shot+2019-04-27+at+5.01.17+PM.png?format=1500w&content-type=image%2Fpng"
   }
   ]
