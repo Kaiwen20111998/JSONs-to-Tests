@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "1. Centro de Recursos para el Coronavirus",
+    "author": "John Hopkins University of Medicine",
+    "link": "https://coronavirus.jhu.edu/"
+  },
+  {
+    "id": 2,
+    "title": "2. ¿Qué hacer si estás enfermo?",
+    "author": "CDC Estados Unidos",
+    "link": "https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html"
+  },
+  {
+    "id": 3,
+    "title": "3. ¿Cómo cuidar de un contagiado de COVID19 en casa?",
+    "author": "CDC Estados Unidos",
+    "link": "https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html"
+  },
+  {
+    "id": 4,
+    "title": "4. Noticias y publicaciones del COVID-19",
+    "author": "Centro Europeo para el Control y Prevención de Enfermedades",
+    "link": "https://www.ecdc.europa.eu/en"
+  },
+  {
+    "id": 5,
+    "title": "5. Investigación del COVID-19 a nivel mundial",
+    "author": "Organización Mundial de la Salud",
+    "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov"
+  }
+]
